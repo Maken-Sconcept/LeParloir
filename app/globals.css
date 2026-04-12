@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=Raleway:wght@300;400;500;600&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --background: 0 0% 5%;
+  --foreground: 40 20% 90%;
+  --card: 0 0% 8%;
+  --card-foreground: 40 20% 90%;
+  --popover: 0 0% 8%;
+  --popover-foreground: 40 20% 90%;
+  --primary: 38 45% 60%;
+  --primary-foreground: 0 0% 5%;
+  --secondary: 0 0% 12%;
+  --secondary-foreground: 40 20% 85%;
+  --muted: 0 0% 15%;
+  --muted-foreground: 40 10% 55%;
+  --accent: 38 45% 60%;
+  --accent-foreground: 0 0% 5%;
+  --border: 40 10% 18%;
+  --gold: 38 45% 60%;
+  --gold-light: 40 40% 75%;
+  --champagne: 40 30% 82%;
+  --charcoal: 0 0% 12%;
+  --charcoal-deep: 0 0% 7%;
+  --obsidian: 0 0% 4%;
+  --font-serif-family: "Playfair Display", Georgia, serif;
+  --font-sans-family: "Raleway", sans-serif;
+}
+
+* {
+  border-color: hsl(var(--border));
+}
+
+html {
+  scroll-behavior: smooth;
+  background: hsl(var(--background));
+}
+
+body {
+  min-height: 100vh;
+  background: hsl(var(--background));
+  color: hsl(var(--foreground));
+  font-family: var(--font-sans-family);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-serif-family);
+}
+
+a {
+  text-decoration: none;
+}
+
+.gold-gradient-text {
+  background-image: linear-gradient(
+    135deg,
+    hsl(var(--gold-light)),
+    hsl(var(--gold)),
+    hsl(var(--champagne))
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.section-dark {
+  background: linear-gradient(
+    180deg,
+    hsl(var(--obsidian)),
+    hsl(var(--charcoal-deep))
+  );
+}
+
+.section-charcoal {
+  background: hsl(var(--charcoal));
+}
+
+.luxury-divider {
+  margin-inline: auto;
+  height: 1px;
+  width: 60px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    hsl(var(--gold)),
+    transparent
+  );
+}
+
+.btn-luxury {
+  display: inline-block;
+  border: 1px solid hsl(var(--gold) / 0.4);
+  background: transparent;
+  padding: 0.75rem 2rem;
+  font-family: var(--font-sans-family);
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: hsl(var(--gold));
+  transition:
+    background-color 500ms,
+    border-color 500ms,
+    box-shadow 500ms,
+    color 500ms;
+}
+
+.btn-luxury:hover {
+  border-color: hsl(var(--gold) / 0.8);
+  background: hsl(var(--gold) / 0.1);
+  box-shadow: 0 0 30px hsl(var(--gold) / 0.1);
+}
+
+.image-overlay {
+  position: relative;
+  overflow: hidden;
+}
+
+.image-overlay::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    180deg,
+    hsl(var(--obsidian) / 0.3) 0%,
+    hsl(var(--obsidian) / 0.7) 100%
+  );
+}

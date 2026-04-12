@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+4:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","345","static/chunks/app/not-found-653a03955ed4de36.js"],""]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[484,[],"ViewportBoundary"]
+b:I[484,[],"MetadataBoundary"]
+d:I[7123,[],"default",1]
+:HL["/_next/static/css/b4d3d6b5cdbc2f46.css","style"]
+0:{"P":null,"c":["","_not-found"],"q":"","i":false,"f":[[["",{"children":["_not-found",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/b4d3d6b5cdbc2f46.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"fr","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-muted px-6","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"mb-4 text-4xl font-bold","children":"404"}],["$","p",null,{"className":"mb-4 text-xl text-muted-foreground","children":"Oups ! Page introuvable"}],["$","$L4",null,{"href":"/","className":"text-primary underline hover:text-primary/90","children":"Retour à l'accueil"}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen items-center justify-center bg-muted px-6","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"mb-4 text-4xl font-bold","children":"404"}],["$","p",null,{"className":"mb-4 text-xl text-muted-foreground","children":"Oups ! Page introuvable"}],["$","$L4",null,{"href":"/","className":"text-primary underline hover:text-primary/90","children":"Retour à l'accueil"}]]}]}],null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$@8"]},null,false,null],["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],null]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"DIwUVsZ1LwLFibpKvyQJc"}
+e:[]
+8:"$We"
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[6869,[],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"Le Parloir"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?a709311cd2c78e86","type":"image/x-icon","sizes":"256x256"}],["$","$Lf","2",{}]]
