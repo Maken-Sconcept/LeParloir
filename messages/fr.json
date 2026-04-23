@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Le Parloir",
-    "description": "Le Parloir est un club privé montréalais dédié aux collectionneurs de vins d'exception."
+    "title": "M Parloir",
+    "description": "M Parloir est un club privé montréalais dédié aux collectionneurs de vins d'exception."
   },
   "navigation": {
-    "brand": "Le Parloir",
+    "brand": "M Parloir",
     "languageLabel": "Langue",
     "languageOptions": {
       "fr": "FR",
@@ -20,19 +20,19 @@
   },
   "hero": {
     "eyebrow": "Club privé · Montréal",
-    "title": "Le Parloir",
+    "title": "M Parloir",
     "description": [
       "Un sanctuaire souterrain dédié aux collectionneurs de vins d'exception.",
       "Accès sur invitation uniquement."
     ],
     "cta": "Demander une invitation",
-    "imageAlt": "Le Parloir cave à vin privée"
+    "imageAlt": "M Parloir cave à vin privée"
   },
   "concept": {
     "eyebrow": "Le Concept",
     "title": "Un monde à part,",
     "accent": "réservé à quelques-uns",
-    "description": "Le Parloir est un club privé souterrain niché au cœur de Montréal. Un espace où le silence est un luxe, où chaque bouteille raconte une histoire, et où l'intimité est absolue. Ici, les collectionneurs se retrouvent dans la discrétion la plus totale.",
+    "description": "M Parloir est un club privé souterrain niché au cœur de Montréal. Un espace où le silence est un luxe, où chaque bouteille raconte une histoire, et où l'intimité est absolue. Ici, les collectionneurs se retrouvent dans la discrétion la plus totale.",
     "features": [
       {
         "title": "Discrétion",
@@ -60,7 +60,7 @@
       "Conseil en acquisition de grands crus"
     ],
     "cta": "En savoir plus",
-    "imageAlt": "Cellier privé Le Parloir"
+    "imageAlt": "Cellier privé M Parloir"
   },
   "lounge": {
     "eyebrow": "Salons Privés",
@@ -74,7 +74,7 @@
       { "label": "Ambiance", "value": "Intime" }
     ],
     "cta": "Réserver un salon",
-    "imageAlt": "Salon privé Le Parloir"
+    "imageAlt": "Salon privé M Parloir"
   },
   "events": {
     "eyebrow": "Événements",
@@ -95,7 +95,7 @@
       }
     ],
     "cta": "Calendrier des événements",
-    "imageAlt": "Dégustation privée Le Parloir"
+    "imageAlt": "Dégustation privée M Parloir"
   },
   "membership": {
     "eyebrow": "Adhésion",
@@ -103,7 +103,7 @@
     "accent": "le cercle",
     "description": "L'adhésion au Parloir se fait sur invitation ou par parrainage d'un membre existant. Le nombre de places est volontairement restreint afin de préserver l'exclusivité et l'intimité de notre communauté.",
     "quote": "Le prestige n'est pas dans l'ostentation, mais dans la retenue.",
-    "quoteAttribution": "Le Parloir",
+    "quoteAttribution": "M Parloir",
     "cta": "Soumettre une demande",
     "emailSubject": "Demande d'adhésion",
     "responseTime": "Réponse sous 48 heures · Strictement confidentiel"

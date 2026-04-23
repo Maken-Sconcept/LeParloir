@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Le Parloir",
-    "description": "Le Parloir is a Laval private club dedicated to collectors of exceptional wines."
+    "title": "M Parloir",
+    "description": "M Parloir is a Laval private club dedicated to collectors of exceptional wines."
   },
   "navigation": {
-    "brand": "Le Parloir",
+    "brand": "M Parloir",
     "languageLabel": "Language",
     "languageOptions": {
       "fr": "FR",
@@ -20,19 +20,19 @@
   },
   "hero": {
     "eyebrow": "Private club · Laval",
-    "title": "Le Parloir",
+    "title": "M Parloir",
     "description": [
       "An underground sanctuary devoted to collectors of exceptional wines.",
       "Access by invitation only."
     ],
     "cta": "Request an invitation",
-    "imageAlt": "Le Parloir private wine cellar"
+    "imageAlt": "M Parloir private wine cellar"
   },
   "concept": {
     "eyebrow": "The Concept",
     "title": "A world apart,",
     "accent": "reserved for a select few",
-    "description": "Le Parloir is a subterranean private club tucked beneath the heart of Laval. A place where silence is a luxury, each bottle tells a story, and privacy is absolute. Here, collectors gather in complete discretion.",
+    "description": "M Parloir is a subterranean private club tucked beneath the heart of Laval. A place where silence is a luxury, each bottle tells a story, and privacy is absolute. Here, collectors gather in complete discretion.",
     "features": [
       {
         "title": "Discretion",
@@ -60,7 +60,7 @@
       "Advisory on acquiring grand crus"
     ],
     "cta": "Learn more",
-    "imageAlt": "Le Parloir private cellar"
+    "imageAlt": "M Parloir private cellar"
   },
   "lounge": {
     "eyebrow": "Private Lounges",
@@ -74,7 +74,7 @@
       { "label": "Ambience", "value": "Intimate" }
     ],
     "cta": "Reserve a lounge",
-    "imageAlt": "Le Parloir private lounge"
+    "imageAlt": "M Parloir private lounge"
   },
   "events": {
     "eyebrow": "Events",
@@ -95,15 +95,15 @@
       }
     ],
     "cta": "Events calendar",
-    "imageAlt": "Le Parloir private tasting"
+    "imageAlt": "M Parloir private tasting"
   },
   "membership": {
     "eyebrow": "Membership",
     "title": "Join",
     "accent": "the circle",
-    "description": "Membership at Le Parloir is extended by invitation or through sponsorship from an existing member. Capacity is intentionally limited in order to preserve the exclusivity and intimacy of our community.",
+    "description": "Membership at M Parloir is extended by invitation or through sponsorship from an existing member. Capacity is intentionally limited in order to preserve the exclusivity and intimacy of our community.",
     "quote": "Prestige is not found in display, but in restraint.",
-    "quoteAttribution": "Le Parloir",
+    "quoteAttribution": "M Parloir",
     "cta": "Submit a request",
     "emailSubject": "Membership request",
     "responseTime": "Reply within 48 hours · Strictly confidential"

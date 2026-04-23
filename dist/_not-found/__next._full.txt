@@ -14,4 +14,4 @@ e:[]
 a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 f:I[6869,[],"IconMark"]
 7:null
-c:[["$","title","0",{"children":"Le Parloir"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?a709311cd2c78e86","type":"image/x-icon","sizes":"256x256"}],["$","$Lf","2",{}]]
+c:[["$","title","0",{"children":"M Parloir"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?a709311cd2c78e86","type":"image/x-icon","sizes":"256x256"}],["$","$Lf","2",{}]]

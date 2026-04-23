@@ -16,7 +16,7 @@ export default function FooterSection({
         <div className="mb-16 grid grid-cols-1 gap-12 md:grid-cols-3">
           <div>
             <h3 className="gold-gradient-text mb-4 font-serif text-2xl">
-              Le Parloir
+              M Parloir
             </h3>
             <p className="text-sm leading-relaxed font-light text-foreground/30">
               {content.description[0]}
@@ -63,7 +63,7 @@ export default function FooterSection({
 
         <div className="flex flex-col items-center justify-between gap-4 md:flex-row">
           <p className="text-xs tracking-wider text-foreground/20">
-            &copy; {new Date().getFullYear()} Le Parloir. {content.rights}
+            &copy; {new Date().getFullYear()} M Parloir. {content.rights}
           </p>
           <p className="text-xs tracking-wider text-foreground/20">
             {content.access}
